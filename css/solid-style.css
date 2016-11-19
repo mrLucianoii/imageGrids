@@ -1,0 +1,41 @@
+
+body {
+    margin: 0;
+    padding-top: 107px;
+    padding-bottom: 107px;
+
+    height: auto;
+    width: 100%;
+    z-index: 0;
+    overflow-x: hidden;
+    background-color: #202020;
+    display: block;
+    position: relative;
+}
+section {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+    width:100%;
+    max-width: 1065px;
+    height: 100%;
+    z-index: 1;
+    
+    padding: 7px 7px 0 7px;
+    
+}
+#grid {
+    position: relative;
+   
+}
+img {
+    border:solid 1px #cccccc;
+    position: relative;
+    display: inline;
+
+}
+
